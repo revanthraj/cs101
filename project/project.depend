@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1428993977 source:c:\temp\delete\prog\project\project1.cpp
+
+1429017466 source:c:\temp\delete\prog\project\project2.cpp
+	<simplecpp>
+
+1429194521 source:c:\temp\delete\prog\project\final demo.cpp
+	<simplecpp>
+	<fstream>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1429195200 source:c:\users\mithun\desktop\project\final demo.cpp
+	<simplecpp>
+	<fstream>
+	<cstring>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
